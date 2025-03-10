@@ -1,4 +1,4 @@
-# HKU-DASC7606-A1
+# HKU-DASC7606-A1 (Finished by impliment Vit model)
 HKU DASC 7606 Assignment 1 (Computer Vision: Image Classification), 2024-2025 Fall
 
 This codebase is only for HKU DASC 7606 (2024-2025) course. Please don't upload your answers or this codebase
